@@ -7,10 +7,11 @@
 - Matricula: 896729
 
 ## Print template
-![03](/public/static/03.png)
+
+<img width="1669" height="919" alt="127 0 0 1_5500_index html (1)" src="https://github.com/user-attachments/assets/f9f13fcb-c59d-4f65-983c-ab713ed8b2ce" />
+
 
 ## Print da tela da página criada
 
-![01](/public/static/01.png)
-![02](/public/static/02.png)
-
+<img width="1669" height="919" alt="127 0 0 1_5500_src_index html (2)" src="https://github.com/user-attachments/assets/df517481-e413-4fe3-b3f2-8081abf345d3" />
+<img width="1669" height="919" alt="127 0 0 1_5500_src_index html (3)" src="https://github.com/user-attachments/assets/18430051-4c5d-4d2b-8f42-eed474ed5207" />
